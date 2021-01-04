@@ -1,0 +1,63 @@
+h1 {
+  color: #ff3366;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  text-align: center;
+  margin: 40px;
+  padding: 15px 20px;
+  border-radius: 50px;
+}
+
+h5 {
+  color: grey;
+}
+
+strong {
+  color: darkslateblue;
+  font-size: 20px;
+}
+
+li {
+  list-style: none;
+  padding: 5px;
+  font-size: 16px;
+  text-align: center;
+}
+.weather-app {
+  border: 2px solid #ab47bc;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+  background-image: linear-gradient(
+    to top,
+    #ff9a9e 0%,
+    #fecfef 99%,
+    #fecfef 100%
+  );
+}
+.temperature {
+  font-size: 40px;
+}
+
+.fa-cloud-showers-heavy {
+  font-size: 70px;
+  color: rgb(55, 77, 163);
+}
+
+.fa-cloud-sun-rain {
+  font-size: 70px;
+  color: rgb(158, 140, 52);
+}
+.fa-sun {
+  font-size: 70px;
+  color: orangered;
+}
+
+.wind {
+  margin-top: 140px;
+  line-height: 10px;
+}
+.units {
+  position: relative;
+  top: -15px;
+}
