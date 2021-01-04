@@ -23,6 +23,11 @@ li {
   font-size: 16px;
   text-align: center;
 }
+
+p {
+  text-align: center;
+  font-weight: bolder;
+}
 .weather-app {
   border: 2px solid #ab47bc;
   margin: 20px auto;
